@@ -1,0 +1,46 @@
+/* Misha Jain, 220001045 */
+
+body {
+  background-color: rgb(39, 130, 186);
+}
+
+.container-lg {
+  width: 80%;
+  height: 550px;
+  color: rgb(19, 19, 19);
+  background-color: rgb(247, 247, 247);
+  border-radius: 20px;
+}
+
+.container-lg h1 {
+  text-align: center;
+  padding-top: 50px;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+#inp {
+  display: flex;
+  height: 80px;
+  width: 80%;
+  margin: 30px auto;
+  margin-top: 50px;
+  text-align: left;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#btn {
+  margin-top: 30px;
+  height: 50px;
+  width: 150px;
+}
+.form {
+  text-align: center;
+}
+
+.output {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+}
